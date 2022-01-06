@@ -1,0 +1,4 @@
+.admin-console { font-family: Helvetica, Arial, sans-serif }
+.container-fluid { height: 100%; }
+.side-bar { max-width: 350px; }
+.side-bar, .bg-dark { background-color: #212529!important; }
