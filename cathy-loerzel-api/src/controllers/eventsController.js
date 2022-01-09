@@ -1,5 +1,5 @@
 // Import Middleware for service and errors
-const service = require('../services/eventsService');
+const service = require('../services/events.service');
 const asyncErrorBoundary = require('../errors/asyncErrorBoundary');
 
 
